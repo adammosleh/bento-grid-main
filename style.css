@@ -101,7 +101,7 @@ img{
     gap: 1rem;
     text-align: center;
     img{
-        
+        width: 12rem;
         margin:.5rem auto;
     }
 }
